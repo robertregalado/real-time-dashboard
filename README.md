@@ -1,4 +1,4 @@
-# Bank Marketing Analysis Dashboard Documentation
+# Documentation
 <img src="dashboard.png" alt="Dashboard Image">
 This documentation explains the various components of the Streamlit application used to create a Bank Marketing Analysis Dashboard. The dashboard reads data from a CSV file, processes it, and visualizes key metrics and charts in near real-time.
 
